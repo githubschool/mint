@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Welcome to my crazy lab!
+Testing 1, 2, 3
 
 ![labtocat](https://octodex.github.com/images/labtocat.png)
 {: .center}
